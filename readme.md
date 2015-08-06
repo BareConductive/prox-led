@@ -1,4 +1,4 @@
-[![Bare Conductive](https://www.dropbox.com/s/p0p71yid2t8tenp/LOGO_256x106.png?dl=1)](http://www.bareconductive.com/)
+[![Bare Conductive](https://www.dropbox.com/s/7qmvpvst3kal3qv/LOGO_256x106.png?dl=1)](http://www.bareconductive.com/)
 
 # Bare Conductive Proximity to LED Intensity Demo Code
 Code demonstrating mapping the proximity of your hand to an electrode connected to E0 of the [Bare Conductive Touch Board](http://www.bareconductive.com/shop/touch-board/). The closer your hand gets to the electrode, the higher the intensity of the D13 LED on the Touch Board.
