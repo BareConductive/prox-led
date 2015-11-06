@@ -1,4 +1,4 @@
-[![Bare Conductive](https://www.dropbox.com/s/7qmvpvst3kal3qv/LOGO_256x106.png?dl=1)](http://www.bareconductive.com/)
+[![Bare Conductive](http://bareconductive.com/assets/images/LOGO_256x106.png)](http://www.bareconductive.com/)
 
 # Bare Conductive Proximity to LED Intensity Demo Code
 Code demonstrating mapping the proximity of your hand to an electrode connected to E0 of the [Bare Conductive Touch Board](http://www.bareconductive.com/shop/touch-board/). The closer your hand gets to the electrode, the higher the intensity of the D13 LED on the Touch Board.
@@ -7,12 +7,7 @@ Recommended electrode design is 85mmx85mm to 100mmx100mm square of [Electric Pai
 
 
 ## Requirements
-* [Arduino](http://arduino.cc/en/Main/Software) 1.5.6 or later
-
-* Arduino's instructions for installing libraries are available [here](http://arduino.cc/en/Guide/Libraries)	
-* [Bare Conductive MPR121 library](https://github.com/bareconductive/mpr121) (zip file download [here](https://github.com/bareconductive/mpr121/archive/public.zip))
-
-* [Bare Conductive Arduino Hardware Plugins](https://github.com/bareconductive/bare-conductive-arduino) (zip file download [here](https://github.com/bareconductive/bare-conductive-arduino/archive/public.zip)) - instructions on installing this hardware plugin folder are available [here](https://github.com/bareconductive/bare-conductive-arduino).
+* You should make sure that you have followed our [Setting up Arduino with your Touch Board](http://www.bareconductive.com/make/setting-up-arduino-with-your-touch-board/) tutorial before using this (or any other) of our code examples
 
 
 ## Install
